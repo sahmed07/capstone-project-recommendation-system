@@ -8,7 +8,9 @@ The dataset I choose for this project is from GroupLens research lab in the Univ
 •	With what level of performance can collaborative filtering using UBCF and IBCF models produce movie recommendations based on movies and user’s ratings data?
 
 Dataset link:
-MovieLens Latest Datasets
+
+http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+
 References:
 https://www.forbes.com/sites/markbeech/2020/03/25/covid-19-pushes-up-internet-use-70-streaming-more-than-12-first-figures-reveal/#56235ead3104
 https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html
