@@ -1,4 +1,4 @@
-# capstone-project-recommendation-system
+# Capstone Project Movie Recommendation System
 Capstone Project
 Abstract
 COVID-19 changes the people lifestyle, due to the lockdown at home, the internet usages are increased, and it impacts on the social life. According to Forbes the initial internet hits increased by between 50% and 70%. Entertainment sites like Netflix, Facebook usages also jumped by 12% approximately.
